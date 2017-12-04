@@ -1,6 +1,4 @@
-# My Awesome Book
+# Guía del Usuario de Lartel
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
-
-.
+Esta guía sirve como referencia para clientes de los servicios de Lartel para configurar y comprobar el estado de sus equipos.
 
